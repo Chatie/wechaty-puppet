@@ -32,6 +32,7 @@ export {
   FriendshipSearchQueryFilter,
   FriendshipType,
   FriendshipSceneType,
+  FriendshipSource,
 }                             from './schemas/friendship'
 export {
   ImageType,
